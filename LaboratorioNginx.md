@@ -1354,7 +1354,7 @@ Complete!
 Created symlink from /etc/systemd/system/multi-user.target.wants/nginx.service to /usr/lib/systemd/system/nginx.service.
 
 `````
->8. Ahora podremos comprobar que Nginx se encuentra en ejecución con el comando
+>8. Ahora podremos comprobar que Nginx se encuentra en ejecución
 
 `````
 [root@vm1 vagrant]# systemctl status nginx
